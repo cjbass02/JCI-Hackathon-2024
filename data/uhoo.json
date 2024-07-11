@@ -1,0 +1,15 @@
+{
+    "PM2.5": "1",
+    "Temperature": "20.6",
+    "Relative Humidity": "56.9",
+    "Air Pressure": "1012.4",
+    "TVOC": "338",
+    "CO2": "510",
+    "CO": "0",
+    "Ozone": "7.5",
+    "NO2": "0.6",
+    "serialNumber": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "virusIndex": 1,
+    "Timestamp": 1591578881,
+    "DateTime": "2020-06-08 03:14"
+}

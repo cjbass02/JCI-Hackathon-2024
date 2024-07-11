@@ -1,0 +1,27 @@
+{
+    "co": 51.10,
+    "co2": 421.7,
+    "geo": {
+        "lat": 40.9844,
+        "lon": 105.5612
+    },
+    "no": 10.28,
+    "no2": 56.82,
+    "noise": 6.29,
+    "o3": 37.94,
+    "pm1": 8.91,
+    "pm10": 14.20,
+    "pm25": 9.07,
+    "pressure": 101454.56,
+    "rh_manifold": 73.29,
+    "sn": "SN000-001",
+    "solar": 8.49,
+    "temp_box": 35.22,
+    "temp_manifold": 7.28,
+    "timestamp": "2020-06-08T15:31:16.895459",
+    "timestamp_local": "2020-06-08T09:31:16.895459",
+    "tvoc": null,
+    "url": "https://api.quant-aq.com/device-api/v1/devices/SN000-001/data/19",
+    "wind_dir": 323.38,
+    "wind_speed": 99.88
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": null,
+  "event": {
+    "action": "Sensor State Changed",
+    "entity": "Sensor",
+    "entityId": 2143,
+    "value": {
+      "EventType": null,
+      "DataType": "Decimal",
+      "Data": "68.406231",
+      "UnitOfMeasure": "ppm"
+    }
+  }
+}
